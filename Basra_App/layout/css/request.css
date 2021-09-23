@@ -1,0 +1,22 @@
+.req{
+width: max-content;
+margin-left: -35%;
+margin-top: 67px;
+}
+.modal-header{
+  background: #009688;
+}
+.fas{
+  color:  #009688;
+}
+.table thead th
+{
+      color: #FF5722;
+          text-align: center;
+}
+  .body{
+    background: #00968821;
+  }
+  .modal-footer input, .modal-footer button{
+    font-size: large;
+  }

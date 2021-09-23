@@ -1,0 +1,86 @@
+h1{
+  text-align: center;
+  margin: 6px;
+color: #077e56;
+}
+.add-merchent{
+  background-color: #4f776c42;
+padding: 16px;
+margin: 24px;
+font-family: none;
+font-weight: bold;
+margin-top: 0;
+padding-right: 0;
+}
+.input-group{
+  background: #17b88938;
+  margin: 13px;
+  padding: 18px;
+  text-align: center;
+  width: 91%;
+  font-size: larger;
+  padding-right: 0;
+margin-right: 0;
+}
+.email {
+  width: 80%;
+}
+
+input,textarea{
+      padding: 4px;
+      margin: 5px;
+      border: none;
+      background-color: #f8f9faeb;
+}
+.submit{
+  padding: 4px 28px 4px 28px;
+    background-color: #077e56;
+    color: bisque;
+    font-size: 21px;
+    border-radius: 9%;
+}
+.submit:hover{
+ background-color: #a83f0b;
+ color: black;
+}
+label{
+   color: #ae5209;
+}
+.success
+{
+   position: absolute;
+    top: 50%;
+    right: 37%;
+    background-color:#1ea699;
+    padding: 28px;
+    text-align: center;
+    color: #813c0b;
+    border-radius: 10%;
+    font-size: larger;
+}
+.add_ok{
+      padding: 3px;
+      width: 67px;
+      border-radius: 10%;
+      border: 1px solid #1e1e1ee3;
+      background-color: #081c0e29;
+}
+input[type=checkbox]{
+  margin-left: 9px;
+}
+.ar-ok{
+
+  padding: 8px 14px;
+  color: azure;
+  border: none;
+
+}
+.paid-way{
+  display: none;
+}
+.paid-way input{
+  width: 50%;
+}
+input[type=radio] {
+  margin-left: 33px;
+}

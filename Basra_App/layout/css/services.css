@@ -1,0 +1,91 @@
+.info .row{justify-content: center;}
+.Customer-header{
+  margin-left: 21px;
+  color: #36ae90;
+}
+.service{
+  margin: 12px;
+background: #4caf5038;
+font-family: none;
+}
+.add_serv{
+margin-top: 95px;
+width: 161%;
+
+}
+img{
+  width: 82%;
+ height: 157px;
+ border-radius: 41%;
+ margin: auto;
+ margin-top: 10px;
+  }
+h4{
+
+      font-weight: bold;
+      color: #009688;
+      word-break: break-all;
+      padding: 7px;
+      text-align: center;
+}
+.info{
+      margin: 15px;
+
+      background: #46461d42;
+      border-radius: 5%;
+      padding-bottom: 16px;
+      width: 280px;
+
+}
+.view{
+  border: none;
+background: #009688;
+padding: 4px;
+border-radius: 15%;
+color: #ffffffd6;
+    margin-right: 6px;
+}
+.view:hover{
+  background:#ffffffd6;
+  color: #732f0a;
+}
+.req_count{
+  border: 1px solid #ff000036;
+    border-radius: 52%;
+    padding-left: 4px;
+    padding-right: 4px;
+    margin-left: 4px;
+    background: #963314;
+    color: white;
+  }
+.modal-footer{
+  float: left;
+}
+label{
+  color: #732b04;
+}
+.add_serv .input_group{
+      margin-bottom: 48px;
+}
+.add_serv .input_group input{
+      padding: 6px;
+}
+.train-title{
+  color: #030322;
+  font-weight: bold;
+}
+.modal-title{
+ margin-bottom: 0;
+line-height: 2.5;
+color: #732f0a;
+font-weight: bold;
+}
+.add-success {
+    width: 30%!important;
+    border: 2px solid;
+    position: absolute;
+    top: 26px;
+    right: 0;
+    left: 0;
+    background-color: #009688;
+}

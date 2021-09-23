@@ -1,0 +1,88 @@
+p{
+  color: #6d2910;
+  font-family: none;
+
+}
+span{
+  color: #000000db;
+    font-weight: bold;
+}
+.order-header{
+  text-align: center;
+  color: #37ad90;
+}
+.order-card{
+  display: inline-block;
+  width: max-content;
+  background-color: #009688a3;
+    padding: 32px;
+    margin: 7px;
+    border-radius: 9%;
+}
+.Pending{
+  color: #a65226;
+  font-size: x-large;
+}
+.Delivered{
+  color: #137b60;
+font-size: x-large;
+}
+.paid{
+  color: #f1f3f4d6;
+}
+.comment{
+  color: #314853;
+  font-weight: normal;
+}
+.card-btn{
+    margin-left: 40px;
+    background-color: #206050;
+    border: none;
+    color: #eae7e4;
+    font-size: medium;
+    font-family: serif;
+    border-radius: 15%;
+
+}
+.card-btn:hover{
+  background-color: #a65226;
+  color: black;
+}
+.modal-content {
+      margin-top: 66px;
+      width:max-content!important;
+}
+ img{
+   width: 79px;
+     height: 61px
+}
+.modal-header{
+      background-color: #009688;
+}
+.modal-content span{
+  color: #dc1414;
+}
+input[type='text']{
+  width: 65%;
+}
+.input-group{
+      margin: 19px;
+}
+label{
+  font-size: large;
+    margin-right: 10px;
+    color: #e35d14;
+}
+.check{
+  color: black;
+}
+.modal-footer{
+  float: left;
+}
+.modal-footer button:hover{
+  background-color:#e35d14;
+
+}
+.table thead th{
+      color: #e55607;
+}

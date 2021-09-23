@@ -1,0 +1,97 @@
+.info .row{justify-content: center;}
+.Customer-header{
+  margin-left: 21px;
+  color: #36ae90;
+}
+h3{
+  color: #db5911;
+}
+.service{
+  margin: 10px;
+background: #4caf5038;
+font-family: none;
+
+}
+.add_serv{
+margin-top: 95px;
+width: 161%;
+
+}
+.add_serv .input_group{
+      margin-bottom: 48px;
+}
+.add_serv .input_group input{
+      padding: 6px;
+}
+img{
+  width: 82%;
+  height: 157px;
+  border-radius: 41%;
+  margin: auto;
+  margin-top: 10px;
+  }
+h4{
+text-align: center;
+font-weight: bold;
+color:#db5911cf;
+word-break: break-all;
+padding: 7px;
+}
+.info{
+margin: 15px;
+background: #009688a8;
+border-radius: 5%;
+padding-bottom: 16px;
+width: 280px;
+
+}
+.fa-trash-alt{
+  color:#0a352a!important;
+}
+.view{
+  border: none;
+background:#0a352a;
+padding: 4px;
+border-radius: 15%;
+color: #ffffffd6;
+margin-right: 6px;
+}
+.view:hover{
+  background:#ffffffd6;
+  color: black;
+}
+.req_count{
+  border: 1px solid #ff000036;
+    border-radius: 52%;
+    padding-left: 4px;
+    padding-right: 4px;
+    margin-left: 4px;
+    background: #963314;
+    color: white;
+  }
+.modal-footer{
+  float: left;
+}
+label{
+  color: #732b04;
+}
+.train-title{
+  color: #030322;
+  font-weight: bold;
+}
+ .modal-title{
+  margin-bottom: 0;
+line-height: 2.5;
+color: #732f0a;
+font-weight: bold;
+
+}
+.add-success {
+    width: 30%!important;
+    border: 2px solid;
+    position: absolute;
+    top: 26px;
+    right: 0;
+    left: 0;
+    background-color: #009688;
+}
